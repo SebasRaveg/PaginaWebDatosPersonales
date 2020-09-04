@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+  
+
+.jumbotron{
+    background-color:black;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    color: black;
+}
+
+.ImagenSebastian{
+    width: 500px;
+    display:block;
+    margin:auto;
+}
+  
+.text{
+    text-align: center;
+}
