@@ -18,16 +18,21 @@ h1{
     font-size: 50px;
 }
 
-h2{
-    color: black;
-}
-
-.ImagenSebastian{
-    width: 300px;
+.imagen{
+    width: 250px;
     display:block;
     margin:auto;
 }
   
 .text{
     text-align: center;
+}
+
+.card-img{
+    width: 300px;
+}
+
+
+.card{
+    border: 0px;
 }
